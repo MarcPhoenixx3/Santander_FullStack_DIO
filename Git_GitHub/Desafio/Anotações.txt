@@ -1,0 +1,7 @@
+ls -a
+git init
+git add
+git commit
+git remote add origin URL
+git remote -v
+git push origin master
