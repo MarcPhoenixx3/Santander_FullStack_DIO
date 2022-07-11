@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: darkgray;
+}
+
+button {
+    padding: 10px;
+    border-radius: 6px;
+    border: 8px, black;
+    background-color: chocolate;
+    color: antiquewhite;
+}
+
+h4 {
+    font-size: 24px;
+}
